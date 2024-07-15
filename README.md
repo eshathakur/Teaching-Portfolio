@@ -13,3 +13,7 @@ Module 5:
 Explain your program video
 [https://github.com/eshathakur/Teaching-Portfolio/blob/main/module5.mp4](https://github.com/eshathakur/Teaching-Portfolio/blob/main/module5.mp4)
 
+Module 7: 
+Explain your program video
+[https://github.com/eshathakur/Teaching-Portfolio/blob/main/module7.mp4](https://github.com/eshathakur/Teaching-Portfolio/blob/main/module7.mp4)
+
