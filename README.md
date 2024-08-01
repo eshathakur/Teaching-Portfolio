@@ -45,3 +45,7 @@ Explain your program video
 Module 22: 
 Explain your program video
 [https://github.com/eshathakur/Teaching-Portfolio/blob/main/module22.mp4](https://github.com/eshathakur/Teaching-Portfolio/blob/main/module22.mp4)
+
+Module 24: 
+Explain your program video
+[https://github.com/eshathakur/Teaching-Portfolio/blob/main/module24.mp4](https://github.com/eshathakur/Teaching-Portfolio/blob/main/module24.mp4)
